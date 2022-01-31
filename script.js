@@ -1,4 +1,4 @@
 const h2 = document.createElement("h2");
-h2.textContent = "this content added by JavaScript";
+h2.textContent = "My name is Jacob jemal, and this this is my first website.";
 
 document.querySelector("body").appendChild(h2);
